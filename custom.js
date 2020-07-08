@@ -1,4 +1,4 @@
-console.log('hello, welcome to the simplest start-up starter');
+
 
 /* 
 *
